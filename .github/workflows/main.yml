@@ -1,4 +1,4 @@
-name: Auto Render Deep Space Video
+name: Auto Render Hidden Industries Video
 
 on:
   repository_dispatch:
